@@ -3,7 +3,7 @@
 🔭 I’m currently working on web development 
 
 
-🌱 I’m currently learning MERN Full Stack Developer 
+🌱 I’m currently learning MERN Full Stack
 
 
 📫 Reach me: dhanushtadisetti@gmail.com
